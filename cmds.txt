@@ -1,0 +1,6 @@
+
+> conda env create
+
+> conda activate polyscope
+
+> python render.py

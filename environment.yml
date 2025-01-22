@@ -1,0 +1,9 @@
+name: polyscope
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - polyscope
+  - meshio
+
